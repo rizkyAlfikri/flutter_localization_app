@@ -1,0 +1,5 @@
+{
+    "title": "Localización de Flutter",
+    "greeting": "Hola, mi nombre es {username}",
+    "invitation_message": "Hagamos el mundo mejor con Flutter"
+}

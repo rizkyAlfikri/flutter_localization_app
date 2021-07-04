@@ -1,0 +1,19 @@
+{
+    "title": "Flutter Localization",
+    "@title": {
+        "description": "Title for app"
+    },
+    "greeting": "Hello, my name is {username}",
+    "@greeting": {
+        "description": "Introducing user",
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "invitation_message": "Let's make world better with Flutter",
+    "@invitation_message": {
+        "description": "Let's make world better with Flutter"
+    }
+}

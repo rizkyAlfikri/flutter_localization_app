@@ -1,0 +1,5 @@
+{
+    "title": "Flutter Lokalisasi",
+    "greeting": "Hi, nama saya adalah {username}",
+    "invitation_message": "Mari membuat dunia lebih baik dengan Flutter"
+}

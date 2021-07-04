@@ -1,0 +1,5 @@
+{
+    "title": "Flutterローカリゼーション",
+    "greeting": "こんにちは、私の名前は {username} です",
+    "invitation_message": "Flutterで世界を良くしましょう"
+}
