@@ -1,10 +1,14 @@
 # flutter_localization_app
 
-A new Flutter project.
+A sample localization Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is project for example how to supporting multiple languages natively in Flutter
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/44297703/124388929-3944f300-dd0f-11eb-8f6a-69e340d364f7.gif)
+
+You can read the for the detail in this Medium article https://rizkyalfikri.medium.com/make-your-flutter-app-support-multiple-languages-localization-cde8468febf
 
 A few resources to get you started if this is your first Flutter project:
 
